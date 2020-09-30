@@ -1,0 +1,6 @@
+title: Hi there! I'm Amy.
+description: I'm a software engineer that is primarily backend-focused, but enjoys working on UI/UX when I can. This is my small portfolio of select work from past & present companies. Thanks for visiting!
+
+theme: jekyll-theme-minimal
+plugins:
+  - jemoji
